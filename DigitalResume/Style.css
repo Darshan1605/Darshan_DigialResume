@@ -11,6 +11,9 @@
     max-width: 10px;
     max-block-size: 10pxs;
 }
+.mouse:hover{
+    background-color: aliceblue;
+}
 
 /* Id's */
 #profileImg{
